@@ -44,3 +44,12 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 /lib/constants.dart
+build/
+.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache
+.idea/
+android/.gradle/
+ios/Pods/
+
