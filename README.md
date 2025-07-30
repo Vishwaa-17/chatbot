@@ -7,12 +7,11 @@ This is a mobile chatbot application built using **Flutter** and integrated with
 ## ✨ Features
 
 - 💬 Real-time chat with AI using Google Gemini API
+- 🎙️ Voice input support using speech-to-text
 - 📱 Clean, user-friendly Flutter interface
 - 📜 Scrollable chat history within a session
 - ⚡ Fast response times via asynchronous HTTP communication
-- 🌙 Light and dark theme support (optional)
-- 🔒 Privacy-aware: no data is stored unless implemented explicitly
-
+- 🌙 Light and dark theme support 
 ---
 
 ## 🧠 How It Works
