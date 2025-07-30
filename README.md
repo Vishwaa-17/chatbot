@@ -24,21 +24,21 @@ This is a mobile chatbot application built using **Flutter** and integrated with
 
 ---
 
-## 🛠️ Tech Stack
+## 📸 Screenshots
 
-| Layer        | Tool/Tech               |
-|--------------|-------------------------|
-| Frontend     | Flutter (Dart)          |
-| AI Backend   | Google Gemini API       |
-| HTTP Client  | `http` Flutter package  |
-| IDE          | VS Code                 |
-| Testing      | Android Emulator / iOS Simulator |
+### 🔐 Login Screen
+![Login](screenshots/login_screen.png)
+
+### 📄 Job Listings
+![Job Listings](screenshots/job_listings.png)
+
+### 🧑‍💼 Recruiter Dashboard
+![Dashboard](screenshots/recruiter_dashboard.png)
 
 ---
 
-## 📸 Screenshots
+## 📦 Download APK
 
-*(Add your screenshots here using Markdown)*
+👉 [Click here to download the latest APK](apk/job_portal_v1.apk)
 
-```md
-![Chat Interface](screenshots/chat_screen.png)
+
