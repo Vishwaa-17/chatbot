@@ -125,7 +125,6 @@ class _ChatbotScreenState extends State<ChatbotScreen> {
     });
   }
 
-  // --- Part 2: Building the UI with Theming ---
   @override
   Widget build(BuildContext context) {
     // ... build method and color definitions remain the same ...

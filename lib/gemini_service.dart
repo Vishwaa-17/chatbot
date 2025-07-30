@@ -9,7 +9,7 @@ class GeminiService {
 
   GeminiService()
       : _model = GenerativeModel(
-          model: 'gemini-1.5-flash', // Use a fast and capable model
+          model: 'gemini-1.5-flash', 
           apiKey: geminiApiKey,
         );
         
@@ -36,7 +36,6 @@ class GeminiService {
       return text;
 
     } catch (e) {
-      // Handle potential errors, like API key issues or network problems
       print("Error sending message: $e");
       return "Sorry, I'm having trouble connecting right now.";
     }
